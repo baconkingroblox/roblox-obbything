@@ -1,6 +1,10 @@
 {
-  "Date": "November 12, 2023",
+  "Date": "November 13, 2023",
   "Updates": [
+    { "Update": "Fixed system messages.", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "Fixed props/decorations (i.e. trees).", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "Added background music.", "UpdateRating": "VeryGood",  "Transparency": "1" },
+    { "Update": "November 12, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0" },
     { "Update": "Game release.", "UpdateRating": "VeryGood",  "Transparency": "1" }
   ]
 }
