@@ -1,6 +1,7 @@
 {
   "Date": "November 13, 2023",
   "Updates": [
+    { "Update": "Fixed an issue where the like & dislike stats shows incorrect percentages.", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Fixed system messages.", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Fixed props/decorations (i.e. trees).", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Added background music.", "UpdateRating": "VeryGood",  "Transparency": "1" },
